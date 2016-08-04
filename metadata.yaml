@@ -1,0 +1,43 @@
+_repo: Gulliver-of-Mars_604
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arnold, Edwin Lester Linden
+    alias: Arnold, Edwin L.
+    birthdate: 1857
+    deathdate: 1935
+    gutenberg_agent_id: '317'
+    url: http://www.gutenberg.org/2009/agents/317
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Lester_Linden_Arnold
+description: "Lieut. Gullivar Jones: His Vacation is the last novel by Edwin Lester\
+  \ Arnold, combining elements of both fantasy and science fiction, first published\
+  \ in 1905. Its lukewarm reception led him to stop writing fiction. It has since\
+  \ become his best known work, and is considered important in the development of\
+  \ 20th century science fiction in that it is a precursor and likely inspiration\
+  \ to Edgar Rice Burroughs's classic A Princess of Mars (1917), which spawned the\
+  \ sword and planet genre. Ace Books reprinted Arnold's novel in paperback in 1964,\
+  \ retitling it Gulliver  [sic] of Mars. A more recent Bison Books edition (2003)\
+  \ was issued as Gullivar of Mars, adapting the Ace title to Arnold's spelling.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Fantasy
+- Science Fiction
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '604'
+  wikidata: Q6544445
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+- !lcsh 'Martians -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- GITenberg
+title: Gulliver of Mars
+url: http://www.gutenberg.org/ebooks/604
+wikipedia:
+- https://en.wikipedia.org/wiki/Lieut._Gullivar_Jones:_His_Vacation
