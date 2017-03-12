@@ -1,5 +1,8 @@
 _repo: Gulliver-of-Mars_604
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Arnold, Edwin Lester Linden
@@ -19,6 +22,8 @@ description: "Lieut. Gullivar Jones: His Vacation is the last novel by Edwin Les
   \ retitling it Gulliver  [sic] of Mars. A more recent Bison Books edition (2003)\
   \ was issued as Gullivar of Mars, adapting the Ace title to Arnold's spelling.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/604#Gulliver-of-Mars
 gutenberg_bookshelf:
 - Fantasy
 - Science Fiction
